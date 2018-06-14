@@ -1,4 +1,7 @@
 import requests
+import math
+import time
+
 
 def url():
     prefix = "https://www.udemy.com"
@@ -11,21 +14,33 @@ def headers():
     headers['Accept'] = 'application/json, text/plain, */*'
     return headers
 
-if __name__ == '__main__':
-
-    parameters = {"page": 1, "page_size": 5, "language": 'zh'}
-    
+def get_response_json(page, page_size, language = 'zh'):
+    parameters = {"page": page, "page_size": page_size, "language": language}
     response = requests.get(url(), params=parameters, headers=headers())
-    # print(response.status_code)
-    # print(response.headers)
+    return response.json()
 
-    # content = response.content.decode('utf-8')
-    data = response.json()
-    # print(type(data))
-    # print(data)
+if __name__ == '__main__':
+    count = get_response_json(1, 1)['count']
 
-    courses = data['results']
-    for course in courses:
-        message = str.format('{0}: {1}: {2}', course['id'], course['url'], course['title'])
-        print(message)
+    PAGE_SIZE = 5
+    total_pages = math.ceil(count / PAGE_SIZE)
 
+
+    for page in range(1, total_pages + 1):
+        print(str.format('---> Page # {0} of page size {1}', page, PAGE_SIZE))
+
+        data = get_response_json(page, PAGE_SIZE)
+
+        if 'results' not in data:
+            print('.... throttled ... wait for a few moments ....')
+            time.sleep(60)
+            continue
+
+        courses = data['results']
+        for c in courses:
+            print(c)
+            message = str.format('{0}: {1}: {2}', c['id'], c['url'], c['title'])
+            print(message)
+            print('--------------------')
+            
+        break
