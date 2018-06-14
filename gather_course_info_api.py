@@ -19,6 +19,12 @@ def get_response_json(page, page_size, language = 'zh'):
     response = requests.get(url(), params=parameters, headers=headers())
     return response.json()
 
+def price_number(price_text):
+    if price_text == 'Free':
+        return 0
+    number = price_text.replace('CA$', '')
+    return number
+
 if __name__ == '__main__':
     count = get_response_json(1, 1)['count']
 
@@ -38,9 +44,10 @@ if __name__ == '__main__':
 
         courses = data['results']
         for c in courses:
-            print(c)
-            message = str.format('{0}: {1}: {2}', c['id'], c['url'], c['title'])
-            print(message)
+            info = (c['id'], c['url'], c['title'], price_number(c['price']))
+            joined = u'\t'.join([str(i) for i in info])
+            # TODO save to a dsv file
+            print(joined)
             print('--------------------')
             
-        break
+        # break
