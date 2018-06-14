@@ -8,9 +8,13 @@ def url():
     suffix = "/api-2.0/courses/?"
     return prefix + suffix
 
+def auth_string():
+    auth_string = 'Basic SUPER_LONG_STRING'
+    return auth_string
+
 def headers():
     headers = {}
-    headers['Authorization'] = 'Basic SUPER_LONG_STRING'
+    headers['Authorization'] = auth_string()
     headers['Accept'] = 'application/json, text/plain, */*'
     return headers
 
