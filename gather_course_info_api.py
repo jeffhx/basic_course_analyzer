@@ -38,7 +38,7 @@ def append_course_info(info_list, course):
 if __name__ == '__main__':
     count = get_response_json(1, 1)['count']
 
-    PAGE_SIZE = 5
+    PAGE_SIZE = 100
     total_pages = math.ceil(count / PAGE_SIZE)
 
     course_info_list = []
@@ -60,9 +60,8 @@ if __name__ == '__main__':
             
             course_info_list = append_course_info(course_info_list, c)
             print('--------------------')
-            
-        break
+    
 
     # print(course_info_list)
     dataFrame = pd.DataFrame(course_info_list, columns=['id', 'url', 'price', 'title'])
-    dataFrame.to_csv('./course_info.tsv', sep='\t', index=False)
+    dataFrame.to_csv('./course_info.tsv', sep='\t')
