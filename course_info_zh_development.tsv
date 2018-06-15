@@ -1,0 +1,101 @@
+	id	url	price	title
+0	1733958	/web-html-css-javascript-jqueryhtml5css3/	0	Web前端开发 -使用 HTML, CSS, Javascript, jQuery,HTML5、CSS3 等建立网站
+1	1717132	/html-css-p/	69.99	最適合初學者的網頁設計課程-HTML & CSS教學
+2	1648114	/python-stock-data/	204.99	Python 入門到製作股市分析
+3	1465666	/git-basic/	39.99	Git/GitHub/GitLab完全教程2018
+4	1702064	/python-flask-and-sqlalchemy-orm/	84.99	Python Flask 輕量級框架 & SQLAlchemy ORM 實戰
+5	1719582	/sql-servermysql/	204.99	關聯式資料庫設計SQL Server和MySQL資料庫-從零開始親手學習資料庫系統
+6	1697832	/reactjs-redux/	44.99	快速學習 React.js 和 Redux 的基礎到實踐
+7	1621838	/wordpress-wd/	24.99	WordPress网页制作A-Z：教您编写个人网页/个人博客，公司主页/品牌主站，电商网站
+8	1701716	/seo-ip5000/	24.99	搜索引擎优化SEO优化从入门到入坑
+9	1692496	/git-newbie/	129.99	精通 Git 版本控管：從入門到進階
+10	1637606	/vue-hexschool/	89.99	Vue 出一個電商網站
+11	1436446	/line-bot/	39.99	Line Bot 對談機器人開發立即上手
+12	1545984	/web-javascript/	144.99	Web前端开发 - 玩转JavaScript  【以实战为基础】
+13	1665348	/jquery-basic/	79.99	jQuery入門超簡單，無痛邁入網頁前端第一步！
+14	1682732	/python3-handbook/	24.99	适合新手的Python3进阶直达课程
+15	1661414	/php-mysql-u/	69.99	一堂課學會 PHP +MySQL !
+16	1663716	/go-bootstrap4/	104.99	Bootstrap 4最強實戰教學，讓你現學現用
+17	1649958	/laravel56/	0	laravel5.6 零基础入门
+18	1575218	/python-tensorflow/	199.99	Python 機器學習-親手TensorFlow實作手寫辨識與Python強化學習車桿平衡
+19	1582694	/unity3dc/	99.99	Unity3d遊戲設計使用C#
+20	1644334	/bulabean-superscrapy/	124.99	Python爬虫：脚本爬虫和Scrapy框架
+21	1200234	/firebase-ios/	29.99	丹尼老師的 Firebase指南 - iOS 篇
+22	1634932	/ffmpeg-qt/	44.99	FFmpeg + qt 音视频播放器 C++ 跨平台实战
+23	1617580	/angular-zero/	204.99	Angular 開發實戰：從零開始
+24	1610830	/tensorflow-c/	204.99	Python程式設計與資料科學基礎--從零開始親手學習Python程式語言-親手徹底研究TensorFlow程式設計
+25	1594168	/ffmpeg-android/	64.99	Android 视频 (流媒体) 播放器开发实战
+26	1591114	/python-env/	104.99	Python完全指南 - 環境
+27	1591096	/golang-fight/	109.99	Go 語言基礎實戰
+28	1586666	/react-native-vane/	104.99	React Native中文全系列教程
+29	1583406	/webpage-design/	104.99	网页设计实例
+30	1530910	/hkt-kotlin-basic/	204.99	從零開始學 Kotlin 程式設計
+31	1374002	/ipad-ios-hyperpad/	39.99	iPad 免編程快速開發 iOS 遊戲神器 : hyperPad
+32	1320112	/spring-boot-quickstart/	24.99	Spring Boot 入门
+33	1563338	/bulabean-scrapy/	0	Python基础：Scrapy爬虫
+34	1504488	/unrealeventdistributionutilityzh/	24.99	虚幻4引擎事件分发机制
+35	1495696	/python-za/	204.99	Python 程式設計教學---從零開始徹底精通Python,親手實作網站擷取與資料分析,精通Selenium
+36	1287360	/ccclub-python-for-beginners/	54.99	跟著商管女孩一起學 Python
+37	1556862	/react-qs/	24.99	React零基础快速入门
+38	1489098	/python-currency_remind/	204.99	Python 匯率即時提醒平台
+39	1456612	/web-htmlcss/	124.99	Web前端开发 - 玩转HTML&CSS【课程以实战为基础】
+40	1532228	/ios11-apps-dev-intro-zh/	0	iOS 11 iPhone Apps開發極速入門班（普通話授課）
+41	1529788	/develop-bitcoin-wallet-with-nodejs/	124.99	用NodeJS開發 Bitcoin wallet
+42	945456	/scratch-programming-kids-demo-cn/	54.99	跟海归博士一起学Scratch少儿趣味编程
+43	1523298	/ios-apps-dev-intro-cantonese/	0	iOS 11 iPhone Apps開發極速入門班（廣東話授課）
+44	1513638	/testng-complete-version/	104.99	TestNG测试框架完整版 - 从初学到精通
+45	1510382	/spring-boot-u/	104.99	Spring Boot从入门到高级实战课程
+46	1516790	/android-intro-zh/	0	2小時成為Android開發者（普通話授課）
+47	1511918	/javascript-es6-react-redux/	189.99	React 前端開發：從入門到進階
+48	1475454	/python-learn/	204.99	Python - 輕鬆學會寫程式
+49	1502224	/netcore2/	154.99	給 C# 開發人員的第一堂 .NET Core 入門課
+50	1497064	/android-app/	79.99	Android App開發 -- 從UI設計到App上架
+51	1491920	/spring-boot/	49.99	Spring Boot开发一个小而美的个人博客
+52	1486072	/intro-to-ether/	204.99	区块链之以太坊 (PoW + PoS 算法 + 设计原理 + Solidity合约安全) 视频教程
+53	1454506	/vs2017go/	99.99	Visual Studio 2017 開發環境全面解析
+54	1480402	/unity-op/	104.99	Unity基礎入門全套視頻教程
+55	1478416	/10cocos2d-x/	64.99	10天學會遊戲開發cocos2d-x高級渲染技術
+56	1311478	/python-partygo/	129.99	Python Flask 實務課程教學 從無到有開發 PartyGo 活動平台
+57	1472630	/bootstrap-4-dev/	0	Bootstrap 4 中文教程
+58	1447380	/opencv_qt_ffmpeg/	44.99	学习 OpenCV 3.2+ QT 5+ ffmpeg 实战开发视频编辑器视频教程
+59	1441596	/cpp_qt5_gui/	44.99	C++ QT 跨平台界面编程原理和实战大全(QT5)
+60	1431884	/linq-csharp/	64.99	Language-Integrated Query 快速上手 ( C# ) (LINQ)
+61	1345128	/cffmpeg-ffmpegqt5opencv/	44.99	(简体中文)C++编程FFMpeg实时美颜直播推流实战-基于ffmpeg，qt5，opencv视频课程
+62	1362266	/wrodpress-shop/	34.99	無痛起步，用WordPress打造自己的網路商店
+63	1437054	/python-u/	134.99	Python 機器學習--徹底研究-從零開始親手學習機器學習和人工智慧。
+64	1388652	/python-y/	69.99	Python駭課 - 駭入基礎語法
+65	1428836	/fullstack-starter/	204.99	全端【產品開發】初體驗
+66	964572	/python-b/	134.99	Python 深度學習
+67	1415732	/weixinrumenshizhan/	24.99	開啟中國大陸市場微信營銷入門實戰課程
+68	1404036	/python-w/	69.99	一天學會 Python--從零開始徹底精通Python 程式語言，親手乒乓球遊戲實作，親手人機界面影像處理實作
+69	1406428	/hexo-hwc/	0	快速使用 Hexo 搭建个人博客视频教程
+70	1401479	/vue-base/	0	Vue入门基础(vue js)
+71	1340588	/python-for-data-science/	54.99	Python3 for Data Science入門與實戰
+72	1391308	/intro-to-python-ds-1/	0	Python 與資料科學入門：建立開發環境
+73	1391220	/ipad-moocs-imovie/	24.99	iPad 微課及 MOOCs 線上課程開發神器 iMovie
+74	1385826	/python-course-beginnners/	39.99	給初學者的Python基礎入門課程
+75	1371790	/learn-r-the-easy-way-1/	104.99	輕鬆學習 R 語言
+76	1338220	/selenium-webdriver-web/	174.99	基於Selenium WebDriver 的Web 應用自動化測試
+77	907130	/javascript-html-css/	84.99	JavaScript 網頁前端工程入門
+78	1345000	/python-h/	79.99	零基础学PythonDemo
+79	1298096	/devops-oneday/	109.99	一天學會 DevOps 自動化測試及部署
+80	1330180	/wordpress-xt1/	29.99	wordpress開啟網路財富創業之路
+81	1335656	/ios11swift4/	204.99	蘋果手機編程 - 使用IOS12 & Swift4 - 編寫19個真實程式
+82	1329184	/teachnodejs/	84.99	NodeJS 前後端開發實戰
+83	1323760	/ios-objective-c/	39.99	最詳盡的IOS開發教程-Objective-C視頻
+84	1319412	/getbootstrap-4/	74.99	精通 Bootstrap 4 - 開發超強不解釋
+85	1294480	/python-awesome-tools/	54.99	Python高級課程：如何創建/發佈/維護/參與Opensource Software
+86	1296144	/git-and-github-2017/	154.99	Git, GitHub and Git Server  2017 新手上手
+87	1296710	/top-boss_ecb8/	204.99	Top-BOSS電商系列-客服與售前銷售技巧
+88	1296774	/top-boss_ecb10/	204.99	Top-BOSS電商系列-營銷與營運技巧
+89	1296678	/top-boss_ecb7/	204.99	Top-BOSS電商系列-金流與物流
+90	1272874	/swift4-ios11/	169.99	深入浅出 iPhone 开发 (使用 Swift4)
+91	1272770	/iphone-swift4/	169.99	深入淺出 iPhone 開發 (使用 Swift4)
+92	1296760	/top-boss_ecb9/	204.99	Top-BOSS電商系列 客服與售後服務技巧
+93	1291768	/top-boss_ecb4/	204.99	Top-BOSS電商系列-商品管理與SEO優化(二)
+94	1291700	/top-boss_ecb3/	204.99	Top-BOSS電商系列-商品管理與SEO優化(一)
+95	1291450	/top-boss_ecb2/	204.99	Top-BOSS電商系列-商品選擇策略與開店流程
+96	1282942	/top-boss_ecb1/	204.99	Top-BOSS電商系列-投入中國電商不可不知
+97	1291814	/top-boss_ecb5/	204.99	Top-BOSS電商系列-商品管理與SEO優化(三)
+98	1296646	/top-boss_ecb6/	204.99	Top-BOSS電商系列-店鋪裝修技巧
+99	1242424	/python3-chinese/	24.99	Python 3零基础完全入门与提高
