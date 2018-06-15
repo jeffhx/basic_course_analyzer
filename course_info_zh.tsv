@@ -1,0 +1,466 @@
+	id	url	price	title
+0	1733958	/web-html-css-javascript-jqueryhtml5css3/	0	Web前端开发 -使用 HTML, CSS, Javascript, jQuery,HTML5、CSS3 等建立网站
+1	1720394	/abaojiaoyu/	29.99	影视传媒与短视频制作全系列教程
+2	1737560	/dzyjqgct/	64.99	銷售文案の進擊
+3	1717268	/pupdzhfz/	64.99	马来西亚教育文凭高级数学，中四，第六课：坐标几何
+4	1734558	/marketingbased/	104.99	網路數位行銷基礎課程
+5	1717132	/html-css-p/	69.99	最適合初學者的網頁設計課程-HTML & CSS教學
+6	1648114	/python-stock-data/	204.99	Python 入門到製作股市分析
+7	1718354	/acctexcel-02/	24.99	Excel自訂儲存格格式的實務應用
+8	1707928	/emeglsed/	204.99	幼儿华文课程
+9	1465666	/git-basic/	39.99	Git/GitHub/GitLab完全教程2018
+10	1710684	/blockchaininvest/	124.99	區塊鏈入門與投資
+11	1702064	/python-flask-and-sqlalchemy-orm/	84.99	Python Flask 輕量級框架 & SQLAlchemy ORM 實戰
+12	1719582	/sql-servermysql/	204.99	關聯式資料庫設計SQL Server和MySQL資料庫-從零開始親手學習資料庫系統
+13	1684068	/subjuntivoconexperienciadevida1/	54.99	用生活經驗    秒懂西班牙語四種虛擬式（初階版）
+14	1697832	/reactjs-redux/	44.99	快速學習 React.js 和 Redux 的基礎到實踐
+15	1621838	/wordpress-wd/	24.99	WordPress网页制作A-Z：教您编写个人网页/个人博客，公司主页/品牌主站，电商网站
+16	1701716	/seo-ip5000/	24.99	搜索引擎优化SEO优化从入门到入坑
+17	746750	/zjchjhfj/	54.99	微信行銷中階班（業務高手班）
+18	1692496	/git-newbie/	129.99	精通 Git 版本控管：從入門到進階
+19	1698722	/qokjggjn/	54.99	马来西亚教育文凭高级数学，中四，第五课：指数与对数
+20	1637606	/vue-hexschool/	89.99	Vue 出一個電商網站
+21	1698712	/vkgztxdj/	24.99	马来西亚教育文凭高级数学，中四，第四课：联立方程式
+22	1444066	/nxvuiisl/	54.99	马来西亚教育文凭高级数学，中四，第三课：二次函数
+23	1436446	/line-bot/	39.99	Line Bot 對談機器人開發立即上手
+24	1545984	/web-javascript/	144.99	Web前端开发 - 玩转JavaScript  【以实战为基础】
+25	1665348	/jquery-basic/	79.99	jQuery入門超簡單，無痛邁入網頁前端第一步！
+26	1448758	/vba-web-scaping/	154.99	VBA網路爬蟲:高效率抓取投資資訊
+27	1682732	/python3-handbook/	24.99	适合新手的Python3进阶直达课程
+28	1661414	/php-mysql-u/	69.99	一堂課學會 PHP +MySQL !
+29	1135872	/caroleft/	204.99	EFT情緒療癒排毒講座和練習 (Tapping)
+30	1663716	/go-bootstrap4/	104.99	Bootstrap 4最強實戰教學，讓你現學現用
+31	1668392	/intermediate-chinese-reading-first-language-y5/	134.99	Intermediate Chinese Reading (First Language) Y5W001
+32	1660362	/how-to-use-the-color-lead-to-draw-beautiful-game-characters/	29.99	How to use the color lead to draw beautiful game characters?
+33	1649958	/laravel56/	0	laravel5.6 零基础入门
+34	1626988	/3-rakmvx/	54.99	参加日商簿記3級讲座吧！（中国語で日商簿記3級講座を受講しよう）
+35	1410408	/qxawfrgs/	44.99	马来西亚教育文凭高级数学，中四，第二课：一元二次方程式
+36	1575218	/python-tensorflow/	199.99	Python 機器學習-親手TensorFlow實作手寫辨識與Python強化學習車桿平衡
+37	1620862	/goolge-tag-manager/	89.99	Goolge Tag Manager实战指南
+38	1626944	/google-analytics-f/	44.99	产品分析与优化(基于Google Analytics)
+39	1582694	/unity3dc/	99.99	Unity3d遊戲設計使用C#
+40	1644334	/bulabean-superscrapy/	124.99	Python爬虫：脚本爬虫和Scrapy框架
+41	1200234	/firebase-ios/	29.99	丹尼老師的 Firebase指南 - iOS 篇
+42	1583090	/bkacourse1/	84.99	數位行銷必備知識：想做數位行銷，從這裡入門！
+43	1634932	/ffmpeg-qt/	44.99	FFmpeg + qt 音视频播放器 C++ 跨平台实战
+44	1393994	/cipm-abc/	24.99	Privacy Exam Preparation Quiz For CIPM
+45	1443300	/spm-additional-mathematics-form-4-chapter-1-functions/	54.99	马来西亚教育文凭高级数学，中四，第一课：函数
+46	1617580	/angular-zero/	204.99	Angular 開發實戰：從零開始
+47	1621000	/app-ichdata/	44.99	APP第三方工具原理解析与选型
+48	1620952	/digital-marketing-in-ichdata/	54.99	互联网数字营销
+49	1604800	/umjilsca/	0	創業開店必修財務基礎
+50	1610830	/tensorflow-c/	204.99	Python程式設計與資料科學基礎--從零開始親手學習Python程式語言-親手徹底研究TensorFlow程式設計
+51	1594786	/microsoft-sql-data-analytics/	74.99	数据分析技能速成 Microsoft SQL
+52	1603840	/incasedo_0001/	24.99	汉字的起源
+53	1594168	/ffmpeg-android/	64.99	Android 视频 (流媒体) 播放器开发实战
+54	1591114	/python-env/	104.99	Python完全指南 - 環境
+55	1591096	/golang-fight/	109.99	Go 語言基礎實戰
+56	1581914	/adobe-2-flashdreamweaver/	39.99	Adobe大補帖-2( Flash,Dreamweaver)
+57	1586666	/react-native-vane/	104.99	React Native中文全系列教程
+58	1564732	/moremoney/	44.99	多角人生：如何創造你的多重收入人生
+59	1577174	/photoshop-edit/	84.99	設計不求人! 商品PS修圖實戰課程
+60	1583406	/webpage-design/	104.99	网页设计实例
+61	1579596	/ajdwfdpe/	0	初學吉他基礎單音及基礎指彈訓練
+62	1530910	/hkt-kotlin-basic/	204.99	從零開始學 Kotlin 程式設計
+63	1374002	/ipad-ios-hyperpad/	39.99	iPad 免編程快速開發 iOS 遊戲神器 : hyperPad
+64	1575332	/google-tag-manager-1/	34.99	Google Tag Manager入门课程
+65	1575260	/google-analytics-case/	69.99	Google Analytics应用案例
+66	1422632	/gina-50-english-phrases/	29.99	50個最常見實用英文片語
+67	1320112	/spring-boot-quickstart/	24.99	Spring Boot 入门
+68	1563338	/bulabean-scrapy/	0	Python基础：Scrapy爬虫
+69	1504488	/unrealeventdistributionutilityzh/	24.99	虚幻4引擎事件分发机制
+70	1564340	/business-japanese-course-for-beginners-vol2_cn/	84.99	商务日语之路　初级篇　下卷
+71	1564336	/business-japanese-course-for-beginners-vol1_cn/	84.99	商务日语之路　初级篇　上卷
+72	1495696	/python-za/	204.99	Python 程式設計教學---從零開始徹底精通Python,親手實作網站擷取與資料分析,精通Selenium
+73	1287360	/ccclub-python-for-beginners/	54.99	跟著商管女孩一起學 Python
+74	1556862	/react-qs/	24.99	React零基础快速入门
+75	1243698	/scratch2018/	0	Scratch编程启蒙项目化学习
+76	1489098	/python-currency_remind/	204.99	Python 匯率即時提醒平台
+77	1496772	/chuangyedajiangtang/	104.99	创业大讲堂
+78	1477370	/google-analytics-l/	34.99	Google Analytics简介
+79	1456612	/web-htmlcss/	124.99	Web前端开发 - 玩转HTML&CSS【课程以实战为基础】
+80	1430248	/lessonfive/	44.99	基礎英文第五課
+81	1543022	/sketchup-pro-certified/	39.99	SketchUp Pro Certified｜原廠中文教材
+82	1532228	/ios11-apps-dev-intro-zh/	0	iOS 11 iPhone Apps開發極速入門班（普通話授課）
+83	1515268	/baby-geh/	54.99	發光BABY肌-保養彩妝課程
+84	1529788	/develop-bitcoin-wallet-with-nodejs/	124.99	用NodeJS開發 Bitcoin wallet
+85	1518304	/fb-messenger-chatbot/	24.99	行銷自動化的必備工具！一小時學會做臉書聊天機器人
+86	1539874	/excel-iu/	24.99	excel
+87	1532224	/ggxxvsal/	84.99	股票不難，難的是人性II(如何買在股票起漲點!!)
+88	945456	/scratch-programming-kids-demo-cn/	54.99	跟海归博士一起学Scratch少儿趣味编程
+89	1493926	/2018brand/	24.99	手把手教你如何打造个人品牌
+90	1523298	/ios-apps-dev-intro-cantonese/	0	iOS 11 iPhone Apps開發極速入門班（廣東話授課）
+91	1509592	/adobe-premiere-photoshop-illustrator/	69.99	Adobe大補帖( Premiere, Photoshop, illustrator)
+92	1513638	/testng-complete-version/	104.99	TestNG测试框架完整版 - 从初学到精通
+93	1476754	/clairelaoshi/	49.99	華語教學之個人行銷點.線.面
+94	1518754	/acctexcel-001/	24.99	一次學會Excel選項中關於一般設置的各個功能
+95	1335706	/brainhack101/	39.99	如何记忆一本书「超级记忆法」
+96	1510382	/spring-boot-u/	104.99	Spring Boot从入门到高级实战课程
+97	1521048	/medialive/	24.99	新媒体运营技巧
+98	1516790	/android-intro-zh/	0	2小時成為Android開發者（普通話授課）
+99	1511918	/javascript-es6-react-redux/	189.99	React 前端開發：從入門到進階
+100	1475454	/python-learn/	204.99	Python - 輕鬆學會寫程式
+101	1470794	/hsung-govmoney-1/	24.99	（適用台灣股市）官股行庫操作分析研判方法（盤勢多空判斷法之一）
+102	1502224	/netcore2/	154.99	給 C# 開發人員的第一堂 .NET Core 入門課
+103	1501028	/autocad01/	84.99	室內設計Autocad全修班
+104	1497064	/android-app/	79.99	Android App開發 -- 從UI設計到App上架
+105	1491920	/spring-boot/	49.99	Spring Boot开发一个小而美的个人博客
+106	1493624	/lvchanghua/	24.99	讲故事学演讲
+107	1486072	/intro-to-ether/	204.99	区块链之以太坊 (PoW + PoS 算法 + 设计原理 + Solidity合约安全) 视频教程
+108	1478722	/latex-ke/	24.99	零基础入门LaTeX排版
+109	1454506	/vs2017go/	99.99	Visual Studio 2017 開發環境全面解析
+110	1478450	/3d-motion-capture/	0	3D Motion Capture三維動作分析
+111	1480402	/unity-op/	104.99	Unity基礎入門全套視頻教程
+112	1478416	/10cocos2d-x/	64.99	10天學會遊戲開發cocos2d-x高級渲染技術
+113	1475920	/wordpress-h/	54.99	wordpress博客搭建培訓教程
+114	1474826	/office-onenote/	24.99	从零开始学Office OneNote
+115	1474526	/office2010-powerpoint/	24.99	Office2010  PowerPoint 完全视频教程
+116	1464976	/apwzzfhf/	29.99	從零開始認識選擇權-投資高手教你快速入門適合上班族的選擇權操作
+117	1311478	/python-partygo/	129.99	Python Flask 實務課程教學 從無到有開發 PartyGo 活動平台
+118	1463542	/chinese-learning-english-fast-advanced-2/	24.99	Chinese Learning English Fast Advanced 2
+119	1463514	/chinese-learning-english-fast-advanced-1/	24.99	Chinese Learning English Fast Advanced 1
+120	1463510	/chinese-learning-english-fast-intermediate-2/	24.99	Chinese Learning English Fast Intermediate 2
+121	1472630	/bootstrap-4-dev/	0	Bootstrap 4 中文教程
+122	1115112	/nenulilei/	0	初中信息技术复习
+123	1462478	/chinese-learning-english-fast-intermediate-1/	24.99	Chinese Learning English Fast Intermediate 1
+124	1455104	/chinese-learning-english-fast-beginning-2/	24.99	Chinese Learning English Fast Beginning 2
+125	1461422	/unity-shader/	0	Unity Shader 入門 (廣東話)
+126	1432684	/emotional_education/	49.99	10堂課教出孩子的好情緒
+127	1455466	/pcb-cjno/	204.99	PCB印制电路板概念初级讲解
+128	1453271	/apache-jcp/	204.99	Apache jcp源文件开发
+129	1453263	/final-cut-pro-x-chinese-basic-tutorial/	24.99	Final cut pro X 中文基础教程
+130	1447380	/opencv_qt_ffmpeg/	44.99	学习 OpenCV 3.2+ QT 5+ ffmpeg 实战开发视频编辑器视频教程
+131	1441596	/cpp_qt5_gui/	44.99	C++ QT 跨平台界面编程原理和实战大全(QT5)
+132	1446540	/office-2010-word/	24.99	零基础入门到精通office 2010 Word
+133	1432476	/chinese-learning-english-fast/	24.99	Chinese Learning English Fast Beginning 1
+134	1042744	/nikoncapture-nx-d/	84.99	調出你的Nikon味，Capture NX-D完全解說
+135	1430586	/hehgsrbw/	34.99	「中醫飲食失節、腹瀉之辨證論治」
+136	1159836	/selenium-webdriver-with-java-testng-and-log4j2/	204.99	Selenium WebDriver自动化测试Java版 +面试问题（中文讲解）
+137	1431884	/linq-csharp/	64.99	Language-Integrated Query 快速上手 ( C# ) (LINQ)
+138	1345128	/cffmpeg-ffmpegqt5opencv/	44.99	(简体中文)C++编程FFMpeg实时美颜直播推流实战-基于ffmpeg，qt5，opencv视频课程
+139	1362266	/wrodpress-shop/	34.99	無痛起步，用WordPress打造自己的網路商店
+140	1437054	/python-u/	204.99	Python 機器學習--徹底研究-從零開始親手學習機器學習和人工智慧。
+141	1424180	/skirtpro/	24.99	Fashion Design Technology Fundamental (服装设计技术基础)
+142	1388652	/python-y/	69.99	Python駭課 - 駭入基礎語法
+143	1431478	/understanding-sun-in-chinese/	24.99	Understanding Sun (in Chinese)
+144	1428836	/fullstack-starter/	204.99	全端【產品開發】初體驗
+145	964572	/python-b/	204.99	Python 深度學習
+146	1415732	/weixinrumenshizhan/	24.99	開啟中國大陸市場微信營銷入門實戰課程
+147	1404036	/python-w/	69.99	一天學會 Python--從零開始徹底精通Python 程式語言，親手乒乓球遊戲實作，親手人機界面影像處理實作
+148	1382878	/fjgdscat/	39.99	股票不難，難的是人性!!
+149	1365350	/qtxzezqg/	64.99	駭客技術入門基礎（The introduction of computer hacker）
+150	1406428	/hexo-hwc/	0	快速使用 Hexo 搭建个人博客视频教程
+151	1348324	/china-zhenjiuology-intermediate/	159.99	中國針灸學：中階【針灸技法】
+152	1322856	/china-zhenjiuology-pre-intermediate/	139.99	中國針灸學：初階【認識經絡與穴位】
+153	1348366	/china-zhenjiuology-advanced-i/	189.99	中國針灸學：進階Ⅰ【臨床診治】
+154	1401479	/vue-base/	0	Vue入门基础(vue js)
+155	1404886	/core-java-for-test-automation/	24.99	Java核心基础知识（为自动化测试准备）
+156	1382422	/cism-yvg/	24.99	CISM（国际注册信息安全经理）知识点复习闪卡（中文）
+157	1354726	/china-zhenjiuology-002/	29.99	中國針灸學-2.經 絡
+158	1354742	/china-zhenjiuology-005/	29.99	中國針灸學-5.腧穴（三）
+159	1348368	/china-zhenjiuology-advanced-ii/	149.99	中國針灸學：進階Ⅱ【臨床診治】
+160	1354730	/china-zhenjiuology-003/	29.99	中國針灸學-3.腧穴(一)
+161	1354718	/china-zhenjiuology-001/	29.99	中國針灸學-1.導論
+162	1354740	/china-zhenjiuology-004/	29.99	中國針灸學-4.腧穴(二)
+163	1354746	/china-zhenjiuology-006/	29.99	中國針灸學-6.刺法(一)
+164	1351230	/80-pairs-of-advanced-chinese-words/	24.99	高级汉语近义词80对 下 (HSK5)
+165	1354756	/china-zhenjiuology-007/	29.99	中國針灸學-7.刺法(二)
+166	1354764	/china-zhenjiuology-008/	29.99	中國針灸學-8.灸法
+167	1354780	/china-zhenjiuology-009/	29.99	中國針灸學-9.內科證治(一)
+168	1354786	/china-zhenjiuology-010/	29.99	中國針灸學-10.內科證治(二)
+169	1354790	/china-zhenjiuology-011/	29.99	中國針灸學-11.內科證治(三)
+170	1355557	/china-zhenjiuology-012/	29.99	中國針灸學-12.內科證治(四)
+171	1355565	/china-zhenjiuology-013/	29.99	中國針灸學-13.婦兒科證治
+172	1355571	/china-zhenjiuology-014/	29.99	中國針灸學-14.外傷及皮膚科
+173	1355579	/china-zhenjiuology-015/	29.99	中國針灸學-15.五官科及其他證冶
+174	1355585	/china-zhenjiuology-016/	29.99	中國針灸學-16.奇經八脈
+175	1355586	/china-zhenjiuology-017/	29.99	中國針灸學-17.氣街四海
+176	1355592	/china-zhenjiuology-018/	29.99	中國針灸學-18.腧穴(四)
+177	1355600	/china-zhenjiuology-019/	29.99	中國針灸學-19.慎針穴位的解剖
+178	1355604	/china-zhenjiuology-020/	29.99	中國針灸學-20.古典針法
+179	1355608	/china-zhenjiuology-021/	29.99	中國針灸學-21.針刺補瀉
+180	1355646	/china-zhenjiuology-022/	29.99	中國針灸學-22.耳穴的診斷與治療
+181	1355654	/china-zhenjiuology-023/	29.99	中國針灸學-23.眼針療法
+182	1355656	/china-zhenjiuology-024/	29.99	中國針灸學-24.顳三針和圍針法
+183	1355660	/china-zhenjiuology-025/	29.99	中國針灸學-25.醒腦開竅法
+184	1355666	/china-zhenjiuology-026/	29.99	中國針灸學-26.溫針灸隔藥餅灸
+185	1355668	/china-zhenjiuology-027/	29.99	中國針灸學-27.穴位敷貼療法
+186	1355670	/china-zhenjiuology-028/	29.99	中國針灸學-28.肩痺證和延髓麻痺
+187	1355672	/china-zhenjiuology-029/	29.99	中國針灸學-29.類風濕性關節炎
+188	1355676	/china-zhenjiuology-030/	29.99	中國針灸學-30.心悸和心痺
+189	1340588	/python-for-data-science/	54.99	Python3 for Data Science入門與實戰
+190	1186112	/firedesign/	39.99	室內裝修工程管理乙級技術士  證照班(2)--消防法規與屋內配線規則
+191	1391308	/intro-to-python-ds-1/	0	Python 與資料科學入門：建立開發環境
+192	1340010	/80-hsk5-q/	24.99	高级汉语近义词80对 上 (HSK5)
+193	1391220	/ipad-moocs-imovie/	24.99	iPad 微課及 MOOCs 線上課程開發神器 iMovie
+194	1330970	/photographylecture/	109.99	一攝入魂系列課程-初階【第一季】
+195	1318012	/jamesphotoshop/	204.99	James給所有Photoshop使用者的第一堂課 [ 打造你的影像硬底子 ]
+196	1385826	/python-course-beginnners/	39.99	給初學者的Python基礎入門課程
+197	1371790	/learn-r-the-easy-way-1/	104.99	輕鬆學習 R 語言
+198	1387320	/ipad-moocs-doceri/	24.99	iPad 微课及 MOOCs 線上課程開發神器 Doceri
+199	1387034	/sketchup3d/	29.99	Sketch up室內設計3D製圖一次學會--初級班
+200	1338220	/selenium-webdriver-web/	174.99	基於Selenium WebDriver 的Web 應用自動化測試
+201	1336492	/drhuang02/	49.99	黃瑽寧的10堂育兒必修課（II）
+202	1333798	/imwwhngj/	29.99	基礎英文第四課
+203	1355664	/photoshop94/	24.99	Photoshop運用技巧94集（中文）
+204	1346908	/pptpowerpoint/	24.99	PPT(PowerPoint) 一起學
+205	1338654	/rpiopencvrobot/	34.99	從無到有打造一個神魔之塔遊戲破解的機器人
+206	1346092	/use-linkedin-to-advance-your-career/	29.99	Use Linkedin to Advance Your Career
+207	907130	/javascript-html-css/	84.99	JavaScript 網頁前端工程入門
+208	1346640	/edexcel-pure-math-ch11-vectors/	24.99	Edexcel Pure Math Ch11 Vectors
+209	1345000	/python-h/	79.99	零基础学PythonDemo
+210	1341364	/dse-math-m2-ch18-introduction-to-vectors/	24.99	DSE Math M2 Ch18 Introduction to Vectors
+211	1298096	/devops-oneday/	109.99	一天學會 DevOps 自動化測試及部署
+212	1330180	/wordpress-xt1/	29.99	wordpress開啟網路財富創業之路
+213	1200766	/htmlcss-d/	69.99	給網頁設計初學者的一門課：html+css
+214	1335656	/ios11swift4/	204.99	蘋果手機編程 - 使用IOS12 & Swift4 - 編寫19個真實程式
+215	1329184	/teachnodejs/	84.99	NodeJS 前後端開發實戰
+216	1247196	/2017-greg34/	159.99	2017 美國職業選手運動醫學與臨床復健研習營 實作班
+217	1323760	/ios-objective-c/	39.99	最詳盡的IOS開發教程-Objective-C視頻
+218	1319412	/getbootstrap-4/	74.99	精通 Bootstrap 4 - 開發超強不解釋
+219	1290336	/drhuang01/	49.99	黃瑽寧的10堂育兒必修課（I）
+220	1318122	/common-mistakes-of-making-chinese-sentences/	24.99	Common Mistakes of Making Chinese Sentences
+221	1319366	/google-stacking/	179.99	Google Stacking - 最強的外部連結策略
+222	1294480	/python-awesome-tools/	54.99	Python高級課程：如何創建/發佈/維護/參與Opensource Software
+223	1315710	/proficient-chinese-lessons-a-hsk6-chinese-idioms/	24.99	Proficient Chinese lessons高级中文课 A  (HSK6 成语 Chinese idioms)
+224	1296144	/git-and-github-2017/	154.99	Git, GitHub and Git Server  2017 新手上手
+225	1259160	/the-most-confusing-50-pairs-of-words-in-intermediate-chinese/	24.99	Up-Intermediate Chinese lessons A (HSK4)
+226	1310790	/amazon101/	204.99	Amazon亚马逊运营实操和数据分析
+227	1307766	/premiere-cc/	24.99	一周学会Premiere  CC
+228	1305275	/japanese-business-etiquette-cn/	49.99	立竿见影！日本商务礼仪基础知识
+229	1277660	/japanese-n2-course-cn/	154.99	在线日本语JLPT N2课程（全10 课）
+230	1299560	/top-facebook-ads-marketing/	204.99	頂尖 Facebook 廣告實戰力
+231	1296710	/top-boss_ecb8/	204.99	Top-BOSS電商系列-客服與售前銷售技巧
+232	1296774	/top-boss_ecb10/	204.99	Top-BOSS電商系列-營銷與營運技巧
+233	1296678	/top-boss_ecb7/	204.99	Top-BOSS電商系列-金流與物流
+234	1282770	/gsmyjmgg/	39.99	基礎英文第三課
+235	1272874	/swift4-ios11/	169.99	深入浅出 iPhone 开发 (使用 Swift4)
+236	1272770	/iphone-swift4/	169.99	深入淺出 iPhone 開發 (使用 Swift4)
+237	1296760	/top-boss_ecb9/	204.99	Top-BOSS電商系列 客服與售後服務技巧
+238	1291768	/top-boss_ecb4/	204.99	Top-BOSS電商系列-商品管理與SEO優化(二)
+239	1291700	/top-boss_ecb3/	204.99	Top-BOSS電商系列-商品管理與SEO優化(一)
+240	1291450	/top-boss_ecb2/	204.99	Top-BOSS電商系列-商品選擇策略與開店流程
+241	1282942	/top-boss_ecb1/	204.99	Top-BOSS電商系列-投入中國電商不可不知
+242	1291814	/top-boss_ecb5/	204.99	Top-BOSS電商系列-商品管理與SEO優化(三)
+243	1296646	/top-boss_ecb6/	204.99	Top-BOSS電商系列-店鋪裝修技巧
+244	1277790	/crazytalk7/	0	Crazytalk 7 用照片輕鬆做宣傳動畫影片！
+245	1245736	/how-to-make-your-english-cv-appealing-to-employers/	29.99	How to Make your English CV Appealing to Employers?
+246	1293128	/hunt-overseas-jobs-effectuvely/	29.99	"""Hunt"" Overseas Jobs Effectively! (for Chinese students)"
+247	1283134	/ps-sxktx/	24.99	国际PS顶尖大师的视频教程
+248	1270458	/canvacourse/	0	Canva雲端平面設計軟體入門
+249	1239870	/build-childs-concentration/	49.99	專注力黃金守則：動得夠才靜得下來
+250	1270058	/photoshop-cs6-x/	29.99	PhotoShop CS6的高手之路
+251	1268816	/develop-babys-5-senses/	49.99	嬰幼兒的五感開發
+252	1242424	/python3-chinese/	24.99	Python 3零基础完全入门与提高
+253	1256082	/kencen-javascript-mandarin/	204.99	深入淺出了解Javascript
+254	1257218	/kencen-javascript-cantonese/	204.99	粵語版-深入淺出了解Javascript
+255	1118482	/read-with-your-child/	49.99	從閱讀啟動孩子的大腦
+256	1233480	/iicfpfgn/	39.99	人人都能開發微信小程序
+257	1120330	/git-fight/	44.99	Git 程式碼管理實戰：提升開發效率
+258	1025402	/quickppt/	59.99	PPT 快製力 - 設計小白也能快速做出高顏質PPT！
+259	1208388	/learning-wordpress-blog/	39.99	Wordpress 部落格課程：開始您自己的事業
+260	1202166	/quweiaoshu/	99.99	趣味奥数
+261	1217112	/impseo03/	59.99	進階搜尋引擎最佳化策略 (三)
+262	1190276	/gulp-learning/	29.99	使用 gulp 進行網頁前端自動化
+263	1198104	/psa-basic/	184.99	PSA基礎講座 - 打造問題解決實戰力
+264	1146652	/html5-course/	34.99	一小時就學會HTML5: 使用HTML5來建造你的網站
+265	1186106	/interior002/	39.99	室內裝修工程管理乙級技術士  證照班(1)--建築法規篇
+266	1149066	/basic-rwd/	34.99	RWD 響應式 網頁 程式設計 入門
+267	1141904	/forexbegins/	204.99	【外匯核心操盤課程】如何在外匯持續獲利的第一步！
+268	1147222	/scratchjr/	34.99	透過ScratchJr學習兒童程式設計
+269	1187252	/chinafitter/	29.99	如何不工作也能赚钱
+270	1186100	/birdy001/	0	室內裝修工程管理乙級技術士  證照班(0)--你要如何考上技術士
+271	1147478	/docker-china/	34.99	Docker技術入門與實戰
+272	1163388	/astrodice/	24.99	占星骰AstroDice
+273	1159766	/xkeiqard/	29.99	基礎英文第二課
+274	1171536	/writing-skills-for-ap-chinese-language-and-culture-exam/	24.99	Writing Skills for AP Chinese Language and Culture Exam
+275	1171706	/how-to-use-question-answer-sentences-correctly-in-mandarin/	49.99	How to use question-answer sentences correctly in Mandarin.
+276	1161806	/rebuild2017/	159.99	2017 美國職業選手運動醫學與臨床復健研習營
+277	1154152	/learning-mandarin-chinese-pinyin-with-several-sentences/	24.99	learning mandarin Chinese pinyin with several sentences
+278	1151044	/quick-survival-chinese-perfect-for-travelers-to-china/	169.99	Quick Survival Chinese Perfect for Travelers to China
+279	1146946	/yukataiwan1/	39.99	如何把浴衣穿得漂亮（女性篇•台灣華語版）
+280	1159156	/wordpresstheme/	204.99	建網進階篇-製作您自己的WordPress主題使用HTML,CSS,php,mySQL,Bootstrap-中文課程
+281	1106172	/imp-seo-strategy-2/	59.99	進階搜尋引擎最佳化策略 (二)
+282	1144836	/japanese-n3-course-cn/	154.99	在线日本语JLPT N3课程（全10 课）
+283	1118582	/lavinoinc/	34.99	约会吸引力宝典-协助你在爱情及吸引的路上找到明确的方向
+284	1108946	/python-6app/	84.99	Python完整課程 - 透過實作6個APP快速入門
+285	1123332	/javascript-learning/	79.99	JavaScript 入門篇 - 學徒的試煉
+286	1099134	/app-store-optimization-course/	99.99	APP商店優化專業課程
+287	1108990	/learn-chinese-step-by-step-with-melody/	24.99	Learn Chinese Step by Step with Melody
+288	1097234	/xddidrav/	29.99	基礎英文第一課
+289	988550	/its-western-museum-history/	49.99	優游世界博物館
+290	1068052	/western-museum-history-preview/	0	優遊世界博物館（試閱）
+291	1103978	/myscratch/	0	Scratch游戏设计
+292	934310	/parenting-5-skills-build-smart-kids-0-6/	39.99	0～6歲幼兒可以學會的五大基礎能力
+293	1096772	/imp-seo-strategy-1/	59.99	進階搜尋引擎最佳化策略 (一)
+294	916712	/netflixyoutube/	34.99	自學英語利用繪本、點讀筆、Netflix(卡通、電影)、Youtube、電子書和雜誌
+295	1028462	/facebook-ads-marketing-course/	134.99	Facebook廣告網路行銷 - 提升知名度、擴大需求、衝高銷售量 - 2017完整教學
+296	1078502	/cgc21-part3/	39.99	云思维工具21天培训营（下）
+297	1047293	/cgc21-part2/	34.99	云思维工具21天培训营（中）
+298	1042390	/cgc21-part1/	34.99	云思维工具21天培训营（上）
+299	1065792	/learninggit/	29.99	掌握 Git & Github 程式時光機
+300	1050262	/python-web-development/	149.99	Python 中文 學習 從無到有開發音樂下載平台 課程
+301	1028586	/editbasicskills/	74.99	資深編輯、出版人老貓（陳穎青）親授編輯基本功
+302	1041378	/kencens-swift3/	204.99	SWIFT3入門篇-蘋果手機開發語言SWIFT3課程-中文課程
+303	1035936	/badmintonmasteryunleashyourpotentialchinese/	44.99	羽毛球精通: 激发你的羽毛球潜力
+304	1038612	/englishmandarin/	54.99	学习英语的学生：用会话来学习英语（包括音频和文字）
+305	1006180	/facebook-adsplatform/	24.99	學會使用第三方 Facebook 廣告投放工具
+306	1022360	/40-tips-on-making-a-great-online-udemy-course-save-time-money-mandarin/	0	製作優秀線上課程的40條建議（省時省錢）
+307	1028656	/zprzqgfl/	0	财务分析与估值建模入门
+308	983906	/html5-css3-jquery-bootstrap-rwd/	29.99	HTML5, CSS3, jQuery, Bootstrap4 從無到有開發RWD網站
+309	957118	/mailchimpchinese/	24.99	大猩猩電子報Mailchimp使用教學 - 初階課程
+310	982960	/customer-s/	24.99	建置屬於自家網站的客服系統
+311	917096	/presentation/	24.99	PowerPoint演示幻灯片提升技巧教程 (简体中文)
+312	582866	/drupal-firstlesson/	34.99	Drupal的初學者學習地圖
+313	906648	/responsive/	74.99	一變應萬變的響應式網頁設計
+314	614694	/axure-rp-7/	54.99	Axure RP 7 原型設計基礎課程 – 基礎工具應用
+315	951854	/mandarin-traditional-chinese-an-entire-mba-in-1-course/	204.99	綜合MBA課程：由商學院屢獲殊榮的教授授課
+316	931604	/miyacourse1f/	34.99	英語會話-出國旅遊輕鬆遊住宿篇
+317	947038	/ptfhilwj/	24.99	安格斯愛情塔羅密碼
+318	852958	/miyacourse1/	154.99	英語會話-出國旅遊輕鬆遊
+319	931516	/landingpage/	49.99	如何打造一頁式金流商務網頁
+320	899448	/swift3-ios-level1/	154.99	Swift3 从入门到精通
+321	899368	/swift3-level1/	154.99	Swift3 從入門到精通
+322	608534	/7-angularjs/	204.99	7 小時學會 AngularJS
+323	850572	/sherryresume/	24.99	社會新鮮人求職首部曲 - 履歷撰寫秘訣大公開
+324	899462	/chrome-devtools/	0	Chrome 網頁除錯功能大解密
+325	608522	/javascriptjs/	204.99	JavaScript 全攻略：克服 JS 的奇怪部分
+326	874214	/37-utqhs/	24.99	監工把好關，錢就花在刀口上- 輕裝修37招監工密技
+327	861056	/jumpsuits/	29.99	How to make a jumpsuit 連身褲裙影音課程
+328	864430	/zqeffmbw/	24.99	色彩的六感空間
+329	864366	/xwxtptwc/	24.99	由內到外認識室內裝修材料
+330	854780	/examxcwz/	29.99	最強職場微信行銷術（WeChat Marketing）
+331	864544	/bxoydblm/	24.99	速學行動行銷
+332	865272	/ken-cens/	204.99	建網百科全書-使用 HTML, CSS, Javascript, jQuery,php, mySQL 建立網站-中文課程
+333	864306	/iyobbslr/	24.99	從創意到創業：創意人的商品學
+334	864442	/greenbuilding/	24.99	環保節能生態綠住宅
+335	850524	/gekivuhe/	24.99	小資族的理財收入，靠基金快速加薪
+336	587194	/wordpress-besthand/	54.99	用 WordPress 打造你想要的網路世界
+337	854926	/rihzspqy/	24.99	錢進馬來西亞 投資房產大利多
+338	821648	/zutzldbx/	24.99	投資美股輕鬆獲利
+339	852868	/wechatmarketing/	24.99	微信煉金術 教你成為業務高手
+340	846982	/ljljjvgi/	24.99	柬房產賺大錢-前進東協 柬埔寨房產投資術
+341	844866	/kfrqzgld/	24.99	翻轉業績 職場必備數位行銷力
+342	846896	/nzoupmnx/	24.99	一堂課教你搞懂社群經營
+343	824730	/chokvmth/	24.99	呵護妳的手腳--居家美甲保養
+344	807896	/smartbrain/	39.99	七堂課輕鬆為0～6歲寶寶建構一顆好大腦
+345	835222	/qpttwfma/	24.99	感覺統合訓練-油黏土美勞
+346	814200	/illustrator-u/	24.99	商業好設計-Illustrator個性商品設計
+347	827962	/bbrxxwyw/	24.99	我的韓語教室-零基礎速學發音
+348	831986	/ufghgawz/	29.99	女人要有錢-好命女觀念養成術
+349	831200	/premiere7/	24.99	學premiere一定要搞懂的7堂課
+350	829292	/jquery-learning/	49.99	使用  jQuery 打造互動性網頁動畫效果
+351	825620	/flokjlxx/	24.99	一小時搞懂會計入門
+352	824888	/quick-start-your-internet-marketing/	24.99	打造網路數位品牌
+353	823796	/richdad-lesson1/	104.99	Rich Dad 富爸爸第一堂課－如何擁有有錢人的現金流思維- How to own the wealthy mind
+354	817176	/7-class-easy/	29.99	7堂課成為賺錢高手
+355	779742	/zxdifwyi/	29.99	網路社群行銷與口碑創造
+356	821816	/ae-uiwud/	24.99	AE進階-特效實作攻略
+357	819430	/knkzzelm/	24.99	女人要有錢--小女人的聰明存錢術
+358	819670	/awoaodhj/	24.99	旺宅好風水
+359	819404	/ohujekak/	24.99	全腦式速讀-心智圖法速讀術
+360	812402	/atom-hexschool/	0	一套用到底的文字編輯器 Atom
+361	749736	/photoshophwakangpublisher/	24.99	商業好設計-Photoshop影像合成海報
+362	812078	/sublime-text-3/	0	一小時上手 Sublime Text 3 網頁編輯器
+363	637056	/professional_pediatric_massage/	104.99	Professional Pediatric Massage 小儿推拿按摩课程
+364	588950	/kawasaki_cn/	99.99	创业精神的重要指南  盖伊‧川崎 (简体中文)
+365	749734	/30go-lyy/	24.99	極道觀光日語- 30句就GO
+366	794624	/html-css-learning/	204.99	使用 HTML、CSS 開發一個網站
+367	779836	/ibooks-author-chenning/	54.99	最簡單且超強大！蘋果免費電子書製作軟體 iBooks Author 實戰教學
+368	741702	/writemoo/	54.99	Writemoo 犢創團：協助你按部就班完成第一個故事！
+369	762984	/top-boss_mw02/	24.99	Top-BOSS初階行銷企劃與模擬經營 二部曲
+370	762970	/top-boss_mw01/	24.99	Top-BOSS初階行銷企劃與模擬經營 首部曲
+371	594682	/r_language/	94.99	大數據基礎：R 語言探索之旅
+372	758396	/coronasdkapp/	74.99	利用Corona SDK開發跨平台手機遊戲App
+373	716718	/facebook-j/	24.99	超人氣Facebook社群經營與內容行銷術
+374	745510	/top-boss_ec04/	59.99	Top-BOSS跨境電商實務課程四部曲-營銷與營運技巧
+375	744518	/top-boss_ec03/	59.99	Top-BOSS跨境電商實務課程三部曲-現金流/物流/客服技巧
+376	743182	/googlefacebook/	34.99	建立Google表單、免費網站、網路賣場和臉書(Facebook)廣告行銷
+377	741738	/top-boss_ec02/	59.99	Top-BOSS跨境電商實務課程二部曲-店舖裝修技巧
+378	589118	/xndartcb-ch/	74.99	赛斯高汀：给自由工作者的一课 (简体中文)
+379	719068	/seo-lan-ch/	54.99	SEO排名的秘密 (简体中文)
+380	710480	/seo-lan-zh/	54.99	SEO 排名的秘密 (繁體中文)
+381	719072	/yaocourse-cn/	0	姚神谈民主 (简体中文)
+382	608602	/hlczgafh/	99.99	蓋伊‧川崎的創業教練課 (繁體中文)
+383	708214	/cloakmaking/	34.99	How to make cloak with sewing machine 半天製作時尚斗篷
+384	702592	/yaocourse/	0	姚立明老師談民主 (繁體中文)
+385	608576	/html-css-zh/	144.99	從零開始用 HTML 和 CSS 打造網站
+386	699768	/top-boss_ec01/	59.99	Top-BOSS跨境電商實務課程首部曲-投入前不可不知
+387	681798	/ecforum-05-zh/	54.99	電商大講堂，流量煉金術｜05 流量品質的轉換率指標
+388	681784	/ecforum-01-zh/	54.99	電商大講堂，流量煉金術｜01 電商的行銷預算配置
+389	681788	/ecforum-02-zh/	54.99	電商大講堂，流量煉金術｜02 行動流量的實戰經驗
+390	681794	/ecforum-03-zh/	54.99	電商大講堂，流量煉金術｜03 電商該怎麼提升 Facebook 廣告成效
+391	681802	/ecforum-07-zh/	54.99	電商大講堂，流量煉金術｜07 電商平台媒體投放轉換率解析
+392	681800	/ecforum-06-zh/	54.99	電商大講堂，流量煉金術｜06 創造顧客終身價值的第一步：edm
+393	575232	/iphone-app-zh/	84.99	iPhone 程式設計超簡單 - 一般人也可以做App的時代來臨了
+394	675358	/iphone-app-cn/	84.99	iPhone 程序设计超简单 - 一般人也可以做App的时代来临了
+395	648866	/jp_backpackers/	0	背包客日語 - Backpacker's Japanese
+396	378622	/gephi2cn/	24.99	Gephi「统计」基础
+397	593628	/1881-001/	44.99	How to make shirt  實用洋裁課：交叉式立領襯衫
+398	667232	/how-to-walk-into-my-supernatural-destiny/	0	步入你超自然的命定  Christian Supernatural Destiny 
+399	608272	/xndartcb/	54.99	賽斯高汀：給自由工作者的一課
+400	595644	/lighroom_part_one_by_ning_cn/	54.99	数位暗房超简单（基础篇）（简体中文）
+401	576208	/lightroom_part_one_by_ning_tw/	54.99	數位暗房超簡單（基礎篇）（繁體中文）
+402	651038	/press_conference_cn/	54.99	公关媒体操作术 - 记者会操作（简体中文）
+403	647592	/press_conference_tw/	54.99	公關媒體操作術 - 記者會操作（繁體中文）
+404	615750	/musickao/	0	本聲綱目 - 傾聽你身邊的聲音
+405	590244	/internetrule/	49.99	網站經營的法則 - 掌握流量建立屬於你的網路行銷模式（繁體中文）
+406	632172	/m-contents-x-community-x-commerce-tw/	54.99	新世代行銷法則，行銷 = 內容 X 社群 X 商務
+407	633320	/m-contents-x-community-x-commerce-cn/	54.99	行销万有理论，M = Contents X Community X Commerce
+408	632322	/corporatemooc/	24.99	企业 MOOCs 成功案例剖析
+409	575228	/sublime-text3/	0	Sublime 超強外掛應用（繁體中文）
+410	436092	/dspjing-pian-gai-lun/	0	DSP晶片概論-THE CONCEPT OF DSP CHIP
+411	612552	/write_a_press_release_china/	54.99	公关媒体操作术 - 新闻稿撰写（简体中文）
+412	589396	/write_a_press_release/	54.99	公關媒體操作術 - 新聞稿撰寫（繁體中文）
+413	490136	/promotearticle/	54.99	開箱文工作坊 - 如何寫開箱文行銷你的 App（繁體中文）
+414	593766	/facebook-fanpage-manage/	54.99	Facebook 粉絲團經營 - 讓數據說出你的下一步（繁體中文）
+415	595112	/transparency-and-anti-corruption-chinese/	0	透明和反腐
+416	589162	/facebook23/	24.99	一招搞定，把Facebook網誌變成你的銷售利器!
+417	585456	/line6868/	49.99	Line at手機平台教學課程（初階）
+418	583672	/promotearticleforchina/	54.99	开箱文工作坊 - 如何写开箱文行销你的 App（简体中文）(币别：美金)
+419	530826	/prworkshop/	54.99	新創 PR 工作坊 - 踏出公關正確第一步（繁體中文）
+420	561616	/effective-learning-technique/	74.99	最有效率學習術  讓你速戰速決！
+421	561346	/deeksha168/	49.99	九個步驟快速提昇你的簡報力、溝通力
+422	561306	/lineat20151/	24.99	您不可不知的Line@生活圈設立與操作秘訣
+423	264468	/fanfu-paida-1/	54.99	凡夫談拍打-自拍篇(Paida DIY)
+424	515248	/google-analytics-zh/	54.99	Google Analytics - 如何分析流量更了解你的網站（繁體中文）
+425	513562	/facebook-marketing-zh/	54.99	Facebook 廣告入門 - 如何利用大數據創造影響力（繁體中文）
+426	523086	/facebook168/	204.99	第一次學facebook行銷就上手，超過3000個人都在網路賣翻天
+427	547452	/top-boss_sa147/	24.99	Top-BOSS公司財務輕鬆管
+428	454356	/nctcstep-by-step-to-learn-chinese-season-01/	24.99	NCTC：Step by Step To Learn Chinese Season 01
+429	539868	/top-boss_ec/	24.99	Top-BOSS五步驟了解電子商務最新動向
+430	517068	/google-analytics-cn/	54.99	Google Analytics - 如何分析流量更了解你的网站（简体中文）
+431	517076	/facebook-basic-s/	54.99	Facebook 广告入门 - 如何利用大数据创造影响力（简体中文）
+432	53205	/quickstarter-wordpress/	24.99	极速架站：Wordpress初学者入门实作课程
+433	470510	/calculus-applications-of-derivatives/	0	微積分-導函數的應用篇 Calculus-Applications of Derivatives
+434	470514	/calculus-indef/	0	微積分-不定積分篇 Calculus-Indefinite Integrals
+435	470512	/calculus-trig/	0	微積分-三角函數篇 Calculus-Trigonometric Functions
+436	470506	/calculus-exp_log/	0	微積分-指數與對數篇 Calculus-Exponential and Logarithmic Functions
+437	470504	/calculus-derivative/	0	微積分-導函數篇 Calculus-Derivatives
+438	469490	/calculus-continuity/	0	微積分-連續性篇 Calculus-Continuity
+439	465476	/calculus-limits/	0	微積分-極限篇 Calculus-Limits
+440	462716	/calculus-basic-math/	0	微積分-基礎數學篇 Calculus-Basic Math
+441	411928	/daysedunctc-online-courses/	0	NCTC：Total Immersion Chinese Language Teaching
+442	341978	/statistics-2/	0	統計學二 Statistics 2 
+443	385120	/seleniumquickstart/	24.99	Selenium自动化测试快速入门指南
+444	365688	/boss_moocs/	54.99	Top-BOSS  策略管理與模擬實戰演練
+445	281308	/statistics-1/	0	統計學一 Statistics 1
+446	304832	/synfig-studio-cutout-animation-zh/	24.99	在 Synfig Studio 中制作剪影动画
+447	272024	/top-boss_re2/	0	Top-BOSS零售門市管理技巧-搭配模擬經營軟體配合教學
+448	229720	/marylaoshi/	0	舌尖上的化学(第一季）
+449	180816	/cust-uvnsp/	0	紫外線與防曬 Ultraviolet radiation and Sun protection
+450	168372	/biz-game/	54.99	Top-BOSS商戰英雄聯盟【創業育成】
+451	138348	/top-boss_accounting/	0	Top-BOSS企業分析與診斷架構
+452	137004	/top-boss_4p/	0	Top-BOSS 行銷4P與組合分析
+453	137416	/top-boss_kids-ipo/	0	Top-BOSS Kids IPO
+454	135686	/managementmath/	0	管理數學 Management Math :解決管理問題的數學
+455	134170	/top-boss_csm/	0	Top-BOSS 流通大師(CSM)
+456	134164	/top-boss_boss/	0	Top-BOSS企業經營模擬系統(BOSS)
+457	123336	/top-boss_pricing/	0	Top-BOSS 行銷贏家(MW)
+458	120738	/httpjpkcqjnueducndsjmbd/	0	电视节目编导与制作The Direct and Manufacture of Education Television 
+459	123330	/ebma_top-boss/	0	Top-BOSS 創業競技場(EBMA)
+460	112104	/top-boss_mbo/	54.99	Top-BOSS 企業經營目標設定 Management By Objective
+461	59215	/sonicgcp_cn/	34.99	Good Clinical Practice (GCP)
+462	30381	/excelclass/	24.99	Excel2010中文教程
+463	15117	/openbsd-quick-starter-in-chinese/	24.99	OpenBSD快速入门
+464	14255	/gephi/	0	Gephi 中文教程
