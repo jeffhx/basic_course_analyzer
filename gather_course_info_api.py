@@ -19,7 +19,9 @@ def headers():
     return headers
 
 def get_response_json(page, page_size, language = 'en'):
-    parameters = {"page": page, "page_size": page_size, "language": language, "ordering": 'newest'}
+    parameters = {"page": page, "page_size": page_size, \
+        "language": language, "ordering": 'newest', \
+        "category": "Development"}
     response = requests.get(url(), params=parameters, headers=headers())
     return response.json()
 
@@ -53,8 +55,6 @@ if __name__ == '__main__':
 
     course_info_list = []
     for page in range(1, total_pages + 1):
-        save_to_file(course_info_list)
-
         print(str.format('---> Page # {0} of page size {1}', page, PAGE_SIZE))
 
         data = get_response_json(page, PAGE_SIZE)
@@ -72,3 +72,5 @@ if __name__ == '__main__':
             
             course_info_list = append_course_info(course_info_list, c)
             print('--------------------')
+
+        save_to_file(course_info_list)
